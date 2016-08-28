@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{dbf26a85-54b1-4f6d-9ecc-670141abe02c}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>5.1098185941043086</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Jornalista - 7 {e7f00572-34ed-4dd0-bfc7-269f1118ed2f}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{a854785c-043a-4598-a674-cef5f29fc4c8}</destination>
+        </relationship>
+    </object>
+</objects>

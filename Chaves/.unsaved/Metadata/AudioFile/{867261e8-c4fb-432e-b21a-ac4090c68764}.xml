@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{867261e8-c4fb-432e-b21a-ac4090c68764}">
+        <property name="assetPath">
+            <value>Jornalista - 10.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>2.6615873015873017</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{a854785c-043a-4598-a674-cef5f29fc4c8}</destination>
+        </relationship>
+    </object>
+</objects>

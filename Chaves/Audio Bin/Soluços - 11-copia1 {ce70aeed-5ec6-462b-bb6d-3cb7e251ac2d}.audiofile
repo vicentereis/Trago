@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{ce70aeed-5ec6-462b-bb6d-3cb7e251ac2d}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.3668707482993197</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Soluços - 11-copia1 {b3718f85-3043-47f8-82c6-9af2e95e5080}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{a854785c-043a-4598-a674-cef5f29fc4c8}</destination>
+        </relationship>
+    </object>
+</objects>

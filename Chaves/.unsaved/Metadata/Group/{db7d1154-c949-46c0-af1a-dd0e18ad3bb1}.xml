@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="MixerGroup" id="{db7d1154-c949-46c0-af1a-dd0e18ad3bb1}">
+        <property name="volume">
+            <value>0.800000012</value>
+        </property>
+        <property name="name">
+            <value>TV</value>
+        </property>
+        <relationship name="effectChain">
+            <destination>{c6a686d7-10e3-4dcd-830f-265ed8f79519}</destination>
+        </relationship>
+        <relationship name="panner">
+            <destination>{3ca2ed94-dc6a-4001-957d-8b1658b3ca5e}</destination>
+        </relationship>
+        <relationship name="output">
+            <destination>{af556aff-d64e-4029-ba54-09dc659827e6}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusEffectChain" id="{c6a686d7-10e3-4dcd-830f-265ed8f79519}">
+        <relationship name="effects">
+            <destination>{55dff941-7bb8-455e-b146-ec86be92d630}</destination>
+            <destination>{9b95d79e-55d7-4816-8660-cab1c024c4e6}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusPanner" id="{3ca2ed94-dc6a-4001-957d-8b1658b3ca5e}">
+        <property name="enabledSurroundSpeakers">
+            <value>203</value>
+        </property>
+    </object>
+    <object class="MixerBusFader" id="{55dff941-7bb8-455e-b146-ec86be92d630}"/>
+    <object class="ThreeEQEffect" id="{9b95d79e-55d7-4816-8660-cab1c024c4e6}">
+        <property name="lowGain">
+            <value>-29.5</value>
+        </property>
+        <property name="midGain">
+            <value>-2.5</value>
+        </property>
+        <property name="highGain">
+            <value>-35</value>
+        </property>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{a1c15e57-366c-429c-a8ba-d4d0121494c8}">
+        <property name="frequencyInKHz">
+            <value>32</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>559.15200000000004</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/266016__timbre__remix-of-freesound-223108-ominous-rumble-drone-with-metallic-resonance-by-timbre {d9225612-4e00-4eeb-ab15-2c61316f2a20}.mp3</value>
+        </property>
+        <relationship name="container">
+            <destination>{a854785c-043a-4598-a674-cef5f29fc4c8}</destination>
+        </relationship>
+    </object>
+</objects>

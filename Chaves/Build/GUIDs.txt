@@ -1,0 +1,22 @@
+{bac6fd2b-a7b0-4cad-93d4-8003d20f769e} event:/alarme
+{0cda2a61-4a89-454f-8d82-7195f3e12835} event:/ambiente
+{52201736-fec4-4b64-8a0a-4c145674f3b2} event:/chuva
+{159d9d78-d1a9-4e27-af7c-2bc7dc6933fe} event:/discando
+{85c61fa8-b46e-43b9-9f88-806816d20716} event:/grito
+{12342235-24f3-4f48-838a-e345c2bddf0b} event:/tiro
+{2cf0f716-ba7f-4797-a6b3-633b36018c69} event:/Copo/clicandoCopo
+{194dc98d-868f-47cc-8e62-83078d47b507} event:/Copo/combo
+{15e336e6-5952-4407-9a43-abeedad91182} event:/Copo/copoArrastando
+{83528100-b8bf-4b0c-badb-5804193e5de3} event:/Copo/copoInvertido
+{a71efbaf-5067-45db-8526-0022b92004bd} event:/Dialogo/continuarDialogo
+{0d965675-dcc5-44f2-942f-ba95a3f6766a} event:/Dialogo/pop
+{5879daef-ccc0-432b-afde-62e56bf8c1ff} event:/Telefone/atenderDesligar
+{1d863710-926b-4c33-b80b-cf1b3bcd697a} event:/Telefone/tocando
+{6e54d753-11ff-4cf4-aca6-d2ed65f7cd29} event:/TV/Futebol
+{3cb8d878-b803-43e8-9ba0-bfda85f5c2a3} event:/TV/joanaMorta
+{d7eb731e-499d-4e5f-84b9-82cc64f6c7ef} event:/TV/promocao
+{04edd851-07bc-4cee-9e10-6a3272a87d9e} event:/TV/saveiroQueimada
+{af556aff-d64e-4029-ba54-09dc659827e6} bus:/
+{d6a82ab1-40a3-4a77-9827-b38bb273ba13} bus:/Reverb
+{db7d1154-c949-46c0-af1a-dd0e18ad3bb1} bus:/TV
+{83651b4e-4c30-4b56-b0d1-81cafa9f60ce} bank:/Master Bank
