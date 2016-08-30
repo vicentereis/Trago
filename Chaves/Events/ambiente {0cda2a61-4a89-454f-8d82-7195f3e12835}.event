@@ -689,7 +689,6 @@
     <object class="MixerBusEffectChain" id="{62b0f485-40cf-473b-8fda-186b10df9221}">
         <relationship name="effects">
             <destination>{837e5412-0c1b-4080-9abc-add6e2b0105e}</destination>
-            <destination>{dc6eb570-e773-416b-acab-a2097f179c6a}</destination>
             <destination>{be56a6cb-da7c-46b0-8986-eb786662aa31}</destination>
         </relationship>
     </object>
@@ -871,7 +870,7 @@
             <value>0.4999999888241291</value>
         </property>
         <property name="value">
-            <value>-3.05652118</value>
+            <value>-0.0608697943</value>
         </property>
         <property name="curveShape">
             <value>0.457722515</value>
@@ -890,7 +889,7 @@
             <value>0.4999999888241291</value>
         </property>
         <property name="value">
-            <value>-3.05652118</value>
+            <value>-0.0608697943</value>
         </property>
         <property name="curveShape">
             <value>0.525913417</value>
@@ -909,7 +908,7 @@
             <value>0.4999999888241291</value>
         </property>
         <property name="value">
-            <value>-3.05652118</value>
+            <value>-0.0608697943</value>
         </property>
         <property name="curveShape">
             <value>0.564888895</value>
@@ -928,7 +927,7 @@
             <value>0.4999999888241291</value>
         </property>
         <property name="value">
-            <value>-3.05652118</value>
+            <value>0</value>
         </property>
         <property name="curveShape">
             <value>0.564888895</value>
@@ -955,7 +954,7 @@
             <value>0.4999999888241291</value>
         </property>
         <property name="value">
-            <value>-3.05652118</value>
+            <value>-2.45739102</value>
         </property>
         <property name="curveShape">
             <value>0.298607051</value>
@@ -966,7 +965,7 @@
             <value>0</value>
         </property>
         <property name="value">
-            <value>-3.05652118</value>
+            <value>-2.45739102</value>
         </property>
     </object>
     <object class="AutomationPoint" id="{159dd6ac-dd85-469e-934d-43b36d115147}">
@@ -974,7 +973,7 @@
             <value>2.4999999441206455</value>
         </property>
         <property name="value">
-            <value>-3.05652118</value>
+            <value>5.80608749</value>
         </property>
         <property name="curveShape">
             <value>0.398807526</value>
@@ -1004,7 +1003,7 @@
             <value>1.9999999552965164</value>
         </property>
         <property name="value">
-            <value>-3.05652118</value>
+            <value>5.80608749</value>
         </property>
     </object>
     <object class="AutomationPoint" id="{ecc3413c-7dfd-4c54-9ae5-dd25293f7824}">
@@ -1012,7 +1011,7 @@
             <value>2.9999999329447746</value>
         </property>
         <property name="value">
-            <value>-3.05652118</value>
+            <value>5.80608749</value>
         </property>
     </object>
     <object class="AutomationPoint" id="{f94b427f-144e-4bfa-abf2-9b73b711b4f1}">
@@ -1020,7 +1019,7 @@
             <value>3.4999999217689037</value>
         </property>
         <property name="value">
-            <value>-3.05652118</value>
+            <value>5.80608749</value>
         </property>
     </object>
     <object class="AutomationPoint" id="{93c177a1-f928-4071-8947-55a14bca92bc}">
@@ -1047,7 +1046,7 @@
             <value>0.99999997764825821</value>
         </property>
         <property name="value">
-            <value>-3.05652118</value>
+            <value>10</value>
         </property>
     </object>
     <object class="AutomationPoint" id="{1db897b5-b7d5-48cd-b6d6-ac7537cdd146}">
@@ -1055,7 +1054,7 @@
             <value>1.4999999664723873</value>
         </property>
         <property name="value">
-            <value>-3.05652118</value>
+            <value>10</value>
         </property>
         <property name="curveShape">
             <value>0.564888895</value>
@@ -1081,7 +1080,6 @@
         </property>
     </object>
     <object class="MixerBusFader" id="{837e5412-0c1b-4080-9abc-add6e2b0105e}"/>
-    <object class="SpatialiserEffect" id="{dc6eb570-e773-416b-acab-a2097f179c6a}"/>
     <object class="MixerSend" id="{be56a6cb-da7c-46b0-8986-eb786662aa31}">
         <relationship name="return">
             <destination>{d6a82ab1-40a3-4a77-9827-b38bb273ba13}</destination>
